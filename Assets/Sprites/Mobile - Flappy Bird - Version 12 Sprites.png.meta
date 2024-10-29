@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background
+      name: Fundo
       rect:
         serializedVersion: 2
         x: 0
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Background2
+      name: Fundo2
       rect:
         serializedVersion: 2
         x: 146
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_2
+      name: "Ch\xE3o"
       rect:
         serializedVersion: 2
         x: 292
@@ -404,7 +404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_17
+      name: Titulo
       rect:
         serializedVersion: 2
         x: 351
@@ -593,7 +593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Play-Button
+      name: Botao Jogar
       rect:
         serializedVersion: 2
         x: 354
@@ -1076,7 +1076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pipe-down
+      name: Cano-Baixo
       rect:
         serializedVersion: 2
         x: 56
@@ -1097,7 +1097,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pipe-up
+      name: Cano-Cima
       rect:
         serializedVersion: 2
         x: 84
@@ -1674,11 +1674,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Background: 1927038594
-      Background2: -1419768614
       Bird1: -2076604105
       Bird2: 1036263942
       Bird3: 977382370
+      Botao Jogar: 1048636506
+      Cano-Baixo: 1598728093
+      Cano-Cima: -1738681432
+      "Ch\xE3o": -2071850891
+      Fundo: 1927038594
+      Fundo2: -1419768614
       Game Over: -439013796
       Mobile - Flappy Bird - Version 12 Sprites_10: 1033382543
       Mobile - Flappy Bird - Version 12 Sprites_11: 1618066349
@@ -1686,10 +1690,8 @@ TextureImporter:
       Mobile - Flappy Bird - Version 12 Sprites_14: -1689724668
       Mobile - Flappy Bird - Version 12 Sprites_15: 7277081
       Mobile - Flappy Bird - Version 12 Sprites_16: 1403027056
-      Mobile - Flappy Bird - Version 12 Sprites_17: 983455528
       Mobile - Flappy Bird - Version 12 Sprites_18: 1737358574
       Mobile - Flappy Bird - Version 12 Sprites_19: -254833943
-      Mobile - Flappy Bird - Version 12 Sprites_2: -2071850891
       Mobile - Flappy Bird - Version 12 Sprites_20: 1235266604
       Mobile - Flappy Bird - Version 12 Sprites_21: 969643187
       Mobile - Flappy Bird - Version 12 Sprites_22: 910100204
@@ -1751,9 +1753,7 @@ TextureImporter:
       Mobile - Flappy Bird - Version 12 Sprites_8: 922842233
       Mobile - Flappy Bird - Version 12 Sprites_80: 110690018
       Mobile - Flappy Bird - Version 12 Sprites_9: -1945797200
-      Pipe-down: 1598728093
-      Pipe-up: -1738681432
-      Play-Button: 1048636506
+      Titulo: 983455528
       Touch-start-UI: -1412073228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
