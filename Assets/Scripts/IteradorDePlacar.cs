@@ -7,7 +7,7 @@ public class IteradorDePlacar : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Placar.Instancia.AtualizaPlacar();
+            //Atualizar placar
         }
     }
 }

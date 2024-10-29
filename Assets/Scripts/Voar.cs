@@ -13,15 +13,6 @@ public class Voar : MonoBehaviour
         rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
-    
-    void Update()
-    {
-        if (Input.GetButtonDown("Fire1"))
-        {
-            rigidbody2D.velocity = Vector2.up * velocidade;
-        }
-    }
-
     private void FixedUpdate()
     {
         transform.rotation = Quaternion.Euler(0, 0, rigidbody2D.velocity.y * velocidadeRotacao);
